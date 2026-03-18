@@ -412,5 +412,5 @@ python history-rag.py
 ```
 
 
-# Author
-
+## Author
+Anubhav Mandarwal ([Anubhav Mandarwal](https://www.linkedin.com/in/anubhav-mandarwal/))
